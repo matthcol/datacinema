@@ -1,0 +1,222 @@
+nom ;prenom;role;films
+Harris;Richard ;Dumbledore;HP 1
+Harris;Richard ;Dumbledore;HP 2
+Gambon;Michael ;Dumbledore;HP 3
+Gambon;Michael ;Dumbledore;HP 4
+Gambon;Michael ;Dumbledore;HP 5
+Gambon;Michael ;Dumbledore;HP 6
+Gambon;Michael ;Dumbledore;HP 7
+Gambon;Michael ;Dumbledore;HP 8
+Smith;Maggie ;Professor McGonagall;HP 1
+Smith;Maggie ;Professor McGonagall;HP 2
+Smith;Maggie ;Professor McGonagall;HP 3
+Smith;Maggie ;Professor McGonagall;HP 4
+Smith;Maggie ;Professor McGonagall;HP 5
+Smith;Maggie ;Professor McGonagall;HP 6
+Smith;Maggie ;Professor McGonagall;HP 7
+Smith;Maggie ;Professor McGonagall;HP 8
+Coltrane;Robbie;Hagrid;HP 1
+Coltrane;Robbie;Hagrid;HP 2
+Coltrane;Robbie;Hagrid;HP 3
+Coltrane;Robbie;Hagrid;HP 4
+Coltrane;Robbie;Hagrid;HP 5
+Coltrane;Robbie;Hagrid;HP 6
+Coltrane;Robbie;Hagrid;HP 7
+Coltrane;Robbie;Hagrid;HP 8
+Radcliffe;Daniel;Harry Potter;HP 1
+Radcliffe;Daniel;Harry Potter;HP 2
+Radcliffe;Daniel;Harry Potter;HP 3
+Radcliffe;Daniel;Harry Potter;HP 4
+Radcliffe;Daniel;Harry Potter;HP 5
+Radcliffe;Daniel;Harry Potter;HP 6
+Radcliffe;Daniel;Harry Potter;HP 7
+Radcliffe;Daniel;Harry Potter;HP 8
+Watson;Emma ;Hermione Granger;HP 1
+Watson;Emma ;Hermione Granger;HP 2
+Watson;Emma ;Hermione Granger;HP 3
+Watson;Emma ;Hermione Granger;HP 4
+Watson;Emma ;Hermione Granger;HP 5
+Watson;Emma ;Hermione Granger;HP 6
+Watson;Emma ;Hermione Granger;HP 7
+Watson;Emma ;Hermione Granger;HP 8
+Rickman;Alan ;Professor Snape;HP 1
+Rickman;Alan ;Professor Snape;HP 2
+Rickman;Alan ;Professor Snape;HP 3
+Rickman;Alan ;Professor Snape;HP 4
+Rickman;Alan ;Professor Snape;HP 5
+Rickman;Alan ;Professor Snape;HP 6
+Rickman;Alan ;Professor Snape;HP 7
+Rickman;Alan ;Professor Snape;HP 8
+Davis;Warwick ;Professor Filius Flitwick ;HP 1
+Davis;Warwick ;Professor Filius Flitwick ;HP 2
+Davis;Warwick ;Professor Filius Flitwick ;HP 3
+Davis;Warwick ;Professor Filius Flitwick ;HP 4
+Davis;Warwick ;Professor Filius Flitwick ;HP 5
+Davis;Warwick ;Professor Filius Flitwick ;HP 6
+Davis;Warwick ;Professor Filius Flitwick ;HP 7
+Davis;Warwick ;Professor Filius Flitwick ;HP 8
+Davis;Warwick ;Wicket W. Warrick;SW VI
+Davis;Warwick ;Greedo;SW I
+Davis;Warwick ;Weazel;SW I
+Davis;Warwick ;Wald;SW I
+Davis;Warwick ;Wollivan;SW VII
+Davis;Warwick ;Wodibin;SW VIII
+Hurt;John;Olivander;HP 1
+Hurt;John;Olivander;HP 7
+Hurt;John;Olivander;HP 8
+Gleeson;Domhnall ;Bill Weasley;HP 7
+Gleeson;Domhnall ;Bill Weasley;HP 8
+Gleeson;Domhnall ;General Hux;SW VII
+Gleeson;Domhnall ;General Hux;SW VIII
+Gleeson;Domhnall ;General Hux;SW IX
+Columbus;Chris;;HP 1
+Columbus;Chris;;HP 2
+Cuaron;Alfonso ;;HP 3
+Newell;Mike ;;HP 4
+Yates;David ;;HP 5
+Yates;David ;;HP 6
+Yates;David ;;HP 7
+Yates;David ;;HP 8
+Yates;David ;;AF 1
+Yates;David ; ;AF 2
+Redmayne;Eddie ;Norbert Dragonneau;AF 1
+Redmayne;Eddie ;Norbert Dragonneau;AF 2
+Waterston;Katherine ;Tina Goldstein;AF 1
+Waterston;Katherine ;Tina Goldstein;AF 2
+Farrell;Colin ;Percival Graves;AF 1
+Farrell;Colin ;Percival Graves;AF 2
+McGregor;Ewan;Obi-Wan Kenobi;SW I
+McGregor;Ewan;Obi-Wan Kenobi;SW II
+McGregor;Ewan;Obi-Wan Kenobi;SW III
+Christensen;Hayden;Anakin Skywalker;SW VI
+Christensen;Hayden;Anakin Skywalker;SW II 
+Christensen;Hayden;Anakin Skywalker;SW III
+Jones;James Earl;Dark Vador (voix);SW IV
+Jones;James Earl;Dark Vador (voix);SW V
+Jones;James Earl;Dark Vador (voix);SW VI
+Jones;James Earl;Dark Vador (voix);SW III
+Daniels;Anthony;C3PO;SW IV
+Daniels;Anthony;C3PO;SW V
+Daniels;Anthony;C3PO;SW VI
+Daniels;Anthony;C3PO;SW I
+Daniels;Anthony;C3PO;SW II
+Daniels;Anthony;C3PO;SW III
+Daniels;Anthony;C3PO;SW VII
+Daniels;Anthony;C3PO;SW VIII
+Daniels;Anthony;C3PO;SW IX
+Baker;Kenny;R2D2;SW IV
+Baker;Kenny;R2D2;SW V
+Baker;Kenny;R2D2;SW VI
+Baker;Kenny;R2D2;SW I
+Baker;Kenny;R2D2;SW II
+Baker;Kenny;R2D2;SW III
+Baker;Kenny;R2D2;SW VII
+Mayhew;Peter;Chewbacca;SW IV
+Mayhew;Peter;Chewbacca;SW V
+Mayhew;Peter;Chewbacca;SW VI
+Mayhew;Peter;Chewbacca;SW III
+Mayhew;Peter;Chewbacca;SW VII
+Hamill;Mark;Luke Skywalker;SW IV
+Hamill;Mark;Luke Skywalker;SW V
+Hamill;Mark;Luke Skywalker;SW VI
+Hamill;Mark;Luke Skywalker;SW VII
+Hamill;Mark;Luke Skywalker;SW VIII
+Hamill;Mark;Luke Skywalker;SW IX
+Fisher;Carrie;Leia Organa;SW IV
+Fisher;Carrie;Leia Organa;SW V
+Fisher;Carrie;Leia Organa;SW VI
+Fisher;Carrie;Leia Organa;SW VII
+Fisher;Carrie;Leia Organa;SW VIII
+Fisher;Carrie;Leia Organa;SW IX
+Ford;Harrison;Han Solo;SW IV
+Ford;Harrison;Han Solo;SW V
+Ford;Harrison;Han Solo;SW VI
+Ford;Harrison;Han Solo;SW VII
+Lucas;Georges;;SW I
+Lucas;Georges;;SW II 
+Lucas;Georges;;SW III
+Lucas;Georges;;SW IV
+Kershner;Irvin;;SW V
+Marquand;Richard;;SW VI
+Abrams;J.J;;SW VII
+Abrams;J.J;;SW IX
+Johnson;Rian;;SW VIII
+Holm;Ian;Bilbo (vieux);H 1 
+Holm;Ian;Bilbo (vieux);H 3
+Holm;Ian;Bilbo (vieux);LOTR 1
+Holm;Ian;Bilbo (vieux);LOTR 3
+Freeman;Martin;Bilbo (jeune);H 1
+Freeman;Martin;Bilbo (jeune);H 2 
+Freeman;Martin;Bilbo (jeune);H 3
+Armitage;Richard;Thorin;H 1
+Armitage;Richard;Thorin;H 2 
+Armitage;Richard;Thorin;H 3
+Weaving;Hugo;Elrond;H 1 
+Weaving;Hugo;Elrond;H 2 
+Weaving;Hugo;Elrond;H 3
+Weaving;Hugo;Elrond;LOTR 1
+Weaving;Hugo;Elrond;LOTR 3
+Bloom;Orlando;Legolas;H 2 
+Bloom;Orlando;Legolas;H 3
+Bloom;Orlando;Legolas;LOTR 1
+Bloom;Orlando;Legolas;LOTR 2
+Bloom;Orlando;Legolas;LOTR 3
+Blanchett;Cate;Galadriel;H 1
+Blanchett;Cate;Galadriel;H 2 
+Blanchett;Cate;Galadriel;H 3
+Blanchett;Cate;Galadriel;LOTR 1
+Blanchett;Cate;Galadriel;LOTR 2
+Blanchett;Cate;Galadriel;LOTR 3
+Wood;Elijah;Frodon;H 1
+Wood;Elijah;Frodon;H 2 
+Wood;Elijah;Frodon;H 3
+Wood;Elijah;Frodon;LOTR 1
+Wood;Elijah;Frodon;LOTR 2
+Wood;Elijah;Frodon;LOTR 3
+Lee;Christopher;Saroumane;LOTR 1
+Lee;Christopher;Saroumane;LOTR 2
+Lee;Christopher;Saroumane;LOTR 3
+Serkis;Andy;Gollum;LOTR 1
+Serkis;Andy;Gollum;LOTR 2
+Serkis;Andy;Gollum;LOTR 3 (VL)
+McKellen;Ian;Gandalf;LOTR 1
+McKellen;Ian;Gandalf;LOTR 2
+McKellen;Ian;Gandalf;LOTR 3
+Mortensen;Viggo;Aragorn;LOTR 1
+Mortensen;Viggo;Aragorn;LOTR 2
+Mortensen;Viggo;Aragorn;LOTR 3
+Bean;Sean;Boromir;LOTR 1
+Bean;Sean;Boromir;LOTR 2  (VL)
+Bean;Sean;Boromir;LOTR 3 (VL)
+Astin ;Sean;Samsagace;LOTR 1
+Astin ;Sean;Samsagace;LOTR 2
+Astin ;Sean;Samsagace;LOTR 3
+Rhys-Davies;John;Gimli;LOTR 1
+Rhys-Davies;John;Gimli;LOTR 2
+Rhys-Davies;John;Gimli;LOTR 3
+Jackson;Peter;;LOTR 1
+Jackson;Peter;;LOTR 2
+Jackson;Peter;;LOTR 3
+Jackson;Peter;;H 1
+Jackson;Peter;;H 2 
+Jackson;Peter;;H 3
+Williams;John ;;SW I
+Williams;John ;;SW II 
+Williams;John ;;SW III
+Williams;John ;;SW IV
+Williams;John ;;SW V
+Williams;John ;;SW VI
+Williams;John ;;SW VII
+Williams;John ;;SW IX
+Williams;John ;;SW VIII
+Williams;John ;;HP 1
+Williams;John ;;HP 2
+Williams;John ;;HP 3
+Shore;Howard;;LOTR 1
+Shore;Howard;;LOTR 2
+Shore;Howard;;LOTR 3
+Shore;Howard;;H 1
+Shore;Howard;;H 2 
+Shore;Howard;;H 3
+Howard;James Newton;;AF 1
+Howard;James Newton;;AF 2
