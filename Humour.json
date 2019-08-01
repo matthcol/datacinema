@@ -1,0 +1,31 @@
+{"filmsComiques":[
+	{"titre":"Snatch:tu braques ou tu raques", "annee":2000, "duree_min":104},
+	{"titre":"Celal ile Ceren", "annee":2013, "duree_min":114},
+	{"titre":"Man on the Moon", "annee":2000, "duree_min":117},
+	{"titre":"Truman Show","annee":1998, "duree_min":103},
+	{"titre":"Little Man", "annee":2006,"duree_min":90},
+	{"titre":"la vérité si je mens", "annee":1997,"duree_min":100},
+	{"titre":"Sakar Şakir", "annee":1977,"duree_min":80},
+	{"titre":"H2G2: le guide du voyageur galactique","annee":2005, "duree_min":108},
+	{"titre":"Rush Hour","annee":1999, "duree_min":95},
+	{"titre":"Rien à déclarer","annee":2011, "duree_min":108},
+	{"titre":"Team Python I","annee":2019,"duree_min":22680},
+	{"titre":"Qu'est-ce qu'on a fait au bon dieu","annee":2014,"duree_min":97},
+	{"titre":"les 3 frères","annee":1995,"duree_min":100}
+	],
+	"peronnagesComiques":[
+	{"nom":"Pitt","prenom":"Brad", "date_Naissance":'18-12-1963', "nationalité":"américain"},
+	{"nom":"Jason","prenom":"Statham", "date_Naissance":'26-07-1967', "nationalité":"britannique"},
+	{"nom":"Gökbakar","prenom":"Şahan", "date_Naissance":'22-10-1980', "nationalité":"turque"},
+	{"nom":"Mola","prenom":"Mercan Ezgi", "date_Naissance":'29-03-1983', "nationalité":"turque"},
+	{"nom":"Ritchie","prenom":"Guy", "date_Naissance":'10-09-1968', "nationalité":"britannique"},
+	{"nom":"Jim","prenom":"Carrey", "date_Naissance":'17-01-1962', "nationalité":"canado-americain"},
+	{"nom":"Wayans","prenom":"Marlon", "date_Naissance":'23-07-1972',"nationalité":"américain"},
+	{"nom":"Gilou","prenom":"Thomas", "date_Naissance":'01-02-1955',"nationalité":"Français"},
+	{"nom":"Suna","prenom":"Kemal", "date_Naissance":'11-11-1944',"nationalité":"Turque"},
+	{"nom":"Boon","prenom":"Dany", "date_Naissance":'26-06-1966',"nationalité":"Français"},
+	{"nom":"Abittan","prenom":"Ary", "date_Naissance":'31-01-1974',"nationalité":"Français"},
+	{"nom":"De Chauveron","prenom":"Phillipe", "date_Naissance":'',"nationalité":"Français"}
+	]
+}
+	
